@@ -1,0 +1,80 @@
+.imagecontainer{
+    width: 150px;
+    margin: auto;
+    padding: 46px;
+}
+.side-heading {
+    display: -webkit-box;
+}
+.analysis{
+    width: 50px;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+}
+
+.side-headi {
+    display: -webkit-box;
+}
+.actio{
+    width: 35px;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+}
+
+.side-headiS {
+    display: -webkit-box;
+}
+.actioS {
+    width: 35px;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+}
+
+
+.actions {
+    width: 40px;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+}
+
+.settings {
+    width: 40px;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+}
+
+.bgColor input [type="submit"]:hover
+{
+    background-color: rgba(0,0,0,.08);
+}
+.sidenav {
+    height: 90%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,.08);
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #818181;
+    display: block;
+  }
+  
+  .sidenav a:hover  {
+    color: #1bbf6d;
+    background-color: #9ef3c8; 
+  }
+
+  
